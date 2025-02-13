@@ -1,6 +1,7 @@
 # CW_1_Form
 
 This repository contains two distinct forms: one for **Internships** and another for **Research Opportunities**.
+They together satisfy the required elements as mentioned.
 
 ### 1. **Internship Form**
 This is the form designed for internship registrations.
