@@ -1,4 +1,4 @@
-# CW_1_Form_WP_CSEB_NITW
+# CW_1_Form
 
 This repository contains two distinct forms: one for **Internships** and another for **Research Opportunities**.
 
