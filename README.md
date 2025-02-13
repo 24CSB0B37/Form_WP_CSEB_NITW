@@ -3,14 +3,14 @@
 This repository contains two distinct forms: one for **Internships** and another for **Research Opportunities**.
 
 ### 1. **Internship Form**
-This is the main form designed for internship registrations.
+This is the form designed for internship registrations.
 
 [Go to Internship Form](form_internship.html)
 
 ---
 
 ### 2. **Research Form**
-This auxiliary form is for research opportunities and offers an improved user interface.
+This form is for research opportunities and offers an improved user interface.
 
 [Go to Research Form](form_research.html)
 
