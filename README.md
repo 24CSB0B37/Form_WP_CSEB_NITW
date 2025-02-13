@@ -26,7 +26,7 @@ This auxiliary form is for research opportunities and offers an improved user in
 ---
 
 ### JavaScript Function for Hidden Fields:
-The hidden fields functionality can be achieved adding the following JavaScript function: (Not added yet since the assignment is only css and html)
+The hidden fields functionality can be achieved adding the following JavaScript function: (Not added yet since the assignment is only html with inline css)
 
 ```javascript
 function clickref(id, action) {
