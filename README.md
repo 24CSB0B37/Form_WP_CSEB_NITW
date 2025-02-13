@@ -20,7 +20,7 @@ This auxiliary form is for research opportunities and offers an improved user in
 - **Marquee with Hyperlink**: A scrolling marquee that contains a clickable hyperlink for navigation.
 - **Image with Hyperlink**: An image embedded in the form that acts as a clickable link.
 - **Bidirectional Hyperlinks**: Seamless navigation between the internship and research forms via hyperlinks.
-- **Hidden Fields**: Hidden form fields that can be dynamically shown or hidden based on user interactions. This functionality can be powered by JavaScript onclick. These are temporarily hidden.
+- **Hidden Fields**: Hidden form fields that can be dynamically shown or hidden based on user interactions. This functionality can be powered by JavaScript onclick. These are temporarily hidden. It is hidden in internship form but visible in research form.
 - **Centered and better alternative interface**: Research form is centered and with a better user interface.
 
 ---
